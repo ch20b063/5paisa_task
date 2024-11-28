@@ -157,9 +157,5 @@ lib/
 
 ---
 
-## **License**
-This project is licensed under the [MIT License](LICENSE).
-
----
 
 Feel free to adjust the APK link and contributing section based on your needs! Let me know if you'd like further assistance.
